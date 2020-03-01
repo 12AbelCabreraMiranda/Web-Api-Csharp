@@ -1,0 +1,12 @@
+C:\Users\AbelCabreraMiranda\Documents\Xamarin-Mobile\RESTListView\RESTListView\RESTListView\bin\Debug\netstandard2.0\RESTListView.deps.json
+C:\Users\AbelCabreraMiranda\Documents\Xamarin-Mobile\RESTListView\RESTListView\RESTListView\bin\Debug\netstandard2.0\RESTListView.dll
+C:\Users\AbelCabreraMiranda\Documents\Xamarin-Mobile\RESTListView\RESTListView\RESTListView\obj\Debug\netstandard2.0\RESTListView.csprojAssemblyReference.cache
+C:\Users\AbelCabreraMiranda\Documents\Xamarin-Mobile\RESTListView\RESTListView\RESTListView\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\AbelCabreraMiranda\Documents\Xamarin-Mobile\RESTListView\RESTListView\RESTListView\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\AbelCabreraMiranda\Documents\Xamarin-Mobile\RESTListView\RESTListView\RESTListView\obj\Debug\netstandard2.0\RESTListView.csproj.CoreCompileInputs.cache
+C:\Users\AbelCabreraMiranda\Documents\Xamarin-Mobile\RESTListView\RESTListView\RESTListView\obj\Debug\netstandard2.0\RESTListView.AssemblyInfoInputs.cache
+C:\Users\AbelCabreraMiranda\Documents\Xamarin-Mobile\RESTListView\RESTListView\RESTListView\obj\Debug\netstandard2.0\RESTListView.AssemblyInfo.cs
+C:\Users\AbelCabreraMiranda\Documents\Xamarin-Mobile\RESTListView\RESTListView\RESTListView\bin\Debug\netstandard2.0\RESTListView.pdb
+C:\Users\AbelCabreraMiranda\Documents\Xamarin-Mobile\RESTListView\RESTListView\RESTListView\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\AbelCabreraMiranda\Documents\Xamarin-Mobile\RESTListView\RESTListView\RESTListView\obj\Debug\netstandard2.0\RESTListView.dll
+C:\Users\AbelCabreraMiranda\Documents\Xamarin-Mobile\RESTListView\RESTListView\RESTListView\obj\Debug\netstandard2.0\RESTListView.pdb
